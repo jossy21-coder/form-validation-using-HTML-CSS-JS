@@ -42,7 +42,10 @@ form-validation-using-HTML-CSS-JS
 
 ## 📸 Preview
 
-![Form Validation Preview](preview.png)
+![Desktop View](https://github.com/jossy21-coder/form-validation-using-HTML-CSS-JS/blob/main/Screenshot%202026-03-15%20151410.png)
+
+![Desktop View](https://github.com/jossy21-coder/form-validation-using-HTML-CSS-JS/blob/main/Screenshot%202026-03-15%20152044.png)
+
 
 ---
 
