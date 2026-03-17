@@ -66,7 +66,7 @@ form-validation-using-HTML-CSS-JS
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/form-validation-using-HTML-CSS-JS.git
+git clone https://github.com/jossy21-coder/form-validation-using-HTML-CSS-JS.git
 ```
 
 2. Open the project folder.
